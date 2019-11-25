@@ -6,7 +6,7 @@
 - Login implement with authorisation
 - User can see their balance
 - User can issue money and transfer to other user.
-- Wallet history with issued and deposit amount.
+- User can see full transaction history.
 
 # Video
 [RPReplay_Final1574689858.MP4.zip](https://github.com/iosdeveloper-portfolio/MobileWalletApp/files/3887310/RPReplay_Final1574689858.MP4.zip)
