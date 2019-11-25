@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.9.0)
+  - AlamofireNetworkActivityIndicator (2.4.0):
+    - Alamofire (~> 4.8)
+  - CodableAlamofire (1.1.2):
+    - Alamofire (~> 4.0)
+  - IQKeyboardManager (6.5.0)
+  - RappleProgressHUD (4.1)
+
+DEPENDENCIES:
+  - AlamofireNetworkActivityIndicator
+  - CodableAlamofire
+  - IQKeyboardManager
+  - RappleProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityIndicator
+    - CodableAlamofire
+    - IQKeyboardManager
+    - RappleProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  AlamofireNetworkActivityIndicator: 9acc3de3ca6645bf0efed462396b0df13dd3e7b8
+  CodableAlamofire: b7adfb2e5e980392014b4b3f3b8b62c01b9de4aa
+  IQKeyboardManager: 700e5155d6a292383b54e8678aec769e14fc78fc
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+
+PODFILE CHECKSUM: 42aea739729620615712f7447e539972deebc93a
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-MobileWalletDemoTests/Pods-MobileWalletDemoTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework
+${BUILT_PRODUCTS_DIR}/CodableAlamofire/CodableAlamofire.framework
+${BUILT_PRODUCTS_DIR}/RappleProgressHUD/RappleProgressHUD.framework

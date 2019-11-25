@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  MobileWalletDemo
+*/
+
+//Errors
+"Error_genric" = "Something went wrong. Please try again.";
+"Error_no_internet" = "No internet connection. Please try again later.";
+"Error_empty_comment" = "Please enter comment or change";
+
+//Validation
+"Username_empty" = "Please enter Username";
+"Password_empty" = "Please enter Password";
+"Amount_empty" = "Please enter Amount";
+"Transfer_money_on_same_account" = "You can not transfer money to your own account";
+"Not_enough_balance_add_money" = "You have a not enough balance please add money on your wallet";
+
+//Alert
+"Alert_title" = "Alert";
+"Alert_Ok" = "Ok";
+
+//Placeholder
+"Username" = "Username";
+"Password" = "Password";
+"Enter_amount" = "Enter Amount";
+
+//Constants
+"Loading" = "Loading...";
+"No_transaction_found" = "No transaction found";
+"Transaction_history" = "Transaction History";
+"Available_balance" = "Available balance: ";
+"Signed_up_success" = "You have signed up successfully. Please login";
+"Balance" = "Balance";
+
+//Buttons
+"Signup" = "Sign Up";
+"Signin" = "Sign In";
+"Add_money" = "Add Money";
+"Send_money" = "Send Money";
+"Dont_have_account" = "Don't have account? ";
